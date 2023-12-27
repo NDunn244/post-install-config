@@ -42,7 +42,7 @@ Now it is time to configure a team. Teams allow you to pull agents from differen
 Now that you have created a new team, you will create a new setting that will allow anyone to create tickets. Go to Admin Panel-->Settings-->User Settings to do this.
 </p>
 <p>
-<img src="https://imgur.com/sqPwtLG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/T1Uw0Yd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <p>
